@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2022 ABISHNOI69
+Copyright (c) 2022 NOXIOUSXPRO
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -24,8 +24,8 @@ SOFTWARE.
 
 # ""DEAR PRO PEOPLE,  DON'T REMOVE & CHANGE THIS LINE
 # TG :- @Abishnoi1m
-#     UPDATE   :- Abishnoi_bots
-#     GITHUB :- ABISHNOI69 ""
+#     UPDATE   :- NOXIOUSBGMISTORE
+#     GITHUB :- NOXIOUSXNOOB ""
 import asyncio
 import html
 import os
