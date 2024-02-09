@@ -517,8 +517,8 @@ def stats(update, context):
             status
             + "\n*Bot statistics*:\n"
             + "\n".join([mod.__stats__() for mod in STATS])
-            + "\n\n[⍙ ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69/ExonRobot) | ⍚\n\n "
-            + "╘══「 by [ᴀʙɪsʜɴᴏɪ](github.com/Abishnoi69) 」\n",
+            + "\n\n[⍙ ɢɪᴛʜᴜʙ](https://t.me/NoxiousBgmiStore) | ⍚\n\n "
+            + "╘══「 by [NOXIOUS](https://t.me/NoxiousBgmiStore) 」\n",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
             disable_web_page_preview=True,
@@ -531,9 +531,9 @@ def stats(update, context):
                         "\n*Bot statistics*:\n"
                         + "\n".join(mod.__stats__() for mod in STATS)
                     )
-                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://github.com/Abishnoi69/ExonRobot) | ⍚ \n\n"
+                    + "\n\n⍙ [ɢɪᴛʜᴜʙ](https://t.me/NoxiousBgmiStore) | ⍚ \n\n"
                 )
-                + "╘══「 by [ᴅʏɴᴀᴍɪᴄ](github.com/Abishnoi69) 」\n"
+                + "╘══「 by [ᴅʏɴᴀᴍɪᴄ](https://t.me/NoxiousBgmiStore) 」\n"
             ),
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(kb),
